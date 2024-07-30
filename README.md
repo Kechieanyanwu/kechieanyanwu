@@ -7,7 +7,7 @@ I’m passionate about using technology to improve the way we interact with the 
 
 - 🔭 I’m currently working on <a href="https://github.com/Kechieanyanwu/kitchenApp-backend"> **KitchenApp** </a>. This is a personal inventory management system. 
 
-- 🌱 I’m currently learning frontend development using React, Mobile App development, and how to integrate AI into personal projects.
+- 🌱 I’m currently working with Vouchsafe.
 
 - 📝 I regularly write thoughts on being a technologist on my <a href="https://pivotech.substack.com"> **Substack** </a>.
 
