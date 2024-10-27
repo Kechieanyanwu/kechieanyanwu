@@ -5,9 +5,7 @@ I started my career in investment banking, but I’ve always had a curiousity an
 <br />
 I’m passionate about using technology to improve the way we interact with the world and with one another. I also love connecting with and enabling other builders and technologists. 
 
-- 🔭 I’m currently working on <a href="https://github.com/Kechieanyanwu/kitchenApp-backend"> **KitchenApp** </a>. This is a personal inventory management system. 
-
-- 🌱 I’m currently working with Vouchsafe.
+- 🌱 I’m currently building at Vouchsafe.
 
 - 📝 I regularly write thoughts on being a technologist on my <a href="https://pivotech.substack.com"> **Substack** </a>.
 
